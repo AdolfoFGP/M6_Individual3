@@ -6,7 +6,3 @@
 - Se incorporan dos imágenes a la página principal (desarrollada en el ejercicio anterior).
 - Se incorporan elementos de bootstrap a la página principal (navbar, carousel, etc). Elementos como el
 footer y el navbar se comparten entre las diferentes páginas. 
-
-### Archivos de interes del proyecto
-
-[Forms](usuarios/forms.py) | [Views](usuarios/views.py) | [Models](Clientes/models.py) | [Archivo CSS](Clientes/static/Clientes/style.css)
